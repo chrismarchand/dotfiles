@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
-	name = christopher marchand chris.marchand.pro@gmail.com
+	email = chris.marchand.pro@gmail.com
+	name = christopher marchand
